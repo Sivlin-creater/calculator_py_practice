@@ -52,7 +52,10 @@ python calculator.py
 
 ## Preview
 
-<img src="preview.png" width="300">
+<img src="Screenshot 2026-06-28 092501.png" width="300">
+[<video width="400" controls>
+  <source src="calculator.mp4" type="video/mp4">
+</video>](https://github.com/Sivlin-creater/calculator_py_practice/raw/main/calculator.mp4)
 
 ## License
 
